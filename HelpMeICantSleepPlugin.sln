@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelpMeICantSleepPlugin", "HelpMeICantSleepPlugin.vcxproj", "{32ECF007-B8D9-4A7E-820F-6C28C48A5CDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32ECF007-B8D9-4A7E-820F-6C28C48A5CDF}.Release|x64.ActiveCfg = Release|x64
+		{32ECF007-B8D9-4A7E-820F-6C28C48A5CDF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4239663C-9509-4E15-B633-A5754C202E8F}
+	EndGlobalSection
+EndGlobal
